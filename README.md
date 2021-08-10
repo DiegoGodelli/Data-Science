@@ -16,6 +16,5 @@ Formação em Engenharia Civil aplicada a Rodovias e Ferrovias e entusiasta na A
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb:** https://bit.ly/2L2cMwy
-
+* **Analisando os Dados do Airbnb:** https://github.com/DiegoGodelli/Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_em_Tokyo_Jap%C3%A3o.ipynb
 ---
