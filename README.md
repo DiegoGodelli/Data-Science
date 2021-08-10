@@ -16,6 +16,6 @@ Formação em Engenharia Civil aplicada a Rodovias e Ferrovias e entusiasta na A
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb:** https://bit.ly/2L2cMwy
 
 ---
