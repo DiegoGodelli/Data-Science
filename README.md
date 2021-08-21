@@ -16,4 +16,5 @@ Formação em Engenharia Civil aplicada a Rodovias e Ferrovias e entusiasta na A
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb:** https://encurtador.com.br/afSZ4
+* **Analisando os Dados do Airbnb:** https://colab.research.google.com/drive/17BVA5avhjJJodT5I0Ajw8V5MFpEWD2Vd
+
